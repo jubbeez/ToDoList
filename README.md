@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>Junto com o professor Matheus Battisti, utilizei o Json Server para simularmos uma API com um servidor fictício, usando requisções HTTP 
+  <h3>Junto com o professor Matheus Battisti, utilizei o Json Server para simularmos uma API com um servidor fictício, usando requisições HTTP 
   com react como se fosse uma API real.</h3>
 </div>
 
